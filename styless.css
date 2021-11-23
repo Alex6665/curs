@@ -107,12 +107,14 @@ nav > a {
 }
 
 .features {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
   font-size: 36px;
   padding-top: 292px;
 }
 
 .view-all {
-  padding-left: 670px;
   color: #fb8f1d;
   font-size: 17px;
 }
@@ -226,7 +228,24 @@ nav > a {
   bottom: 0px;
 }
 
-.trading {
+.trending {
   font-size: 36px;
   padding-top: 200px;
+}
+
+.trending-stories {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.trending-foto {
+  display: flex;
+  gap: 41px;
+  align-items: stretch;
+}
+
+.turist {
+  flex: 1;
+  height: 231px;
 }
