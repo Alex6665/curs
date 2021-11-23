@@ -1,0 +1,8 @@
+a {
+  text-decoration: none;
+  color: #b8becd;
+}
+
+a.active {
+  color: #202336;
+}

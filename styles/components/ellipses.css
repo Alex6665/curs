@@ -1,0 +1,50 @@
+.ellipse-1,
+.ellipse-2,
+.ellipse-3,
+.ellipse-4,
+.ellipse-5,
+.ellipse-6,
+.ellipse-7,
+.ellipse-8 {
+  position: absolute;
+}
+
+img.ellipse-1 {
+  right: 730px;
+  top: 80px;
+}
+
+img.ellipse-2 {
+  right: 730px;
+  top: 132px;
+}
+
+img.ellipse-3 {
+  right: 730px;
+  top: 184px;
+}
+
+img.ellipse-4 {
+  right: 730px;
+  top: 236px;
+}
+
+img.ellipse-5 {
+  right: 730px;
+  top: 288px;
+}
+
+img.ellipse-6 {
+  right: 676px;
+  top: 184px;
+}
+
+img.ellipse-7 {
+  right: 676px;
+  top: 236px;
+}
+
+img.ellipse-8 {
+  right: 676px;
+  top: 288px;
+}
